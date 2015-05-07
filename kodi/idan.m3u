@@ -1,0 +1,213 @@
+#EXTM3U 
+#EXTINF:-1 tvg-id="Channel 1" tvg-name="Channel 1" tvg-logo="Channel_1.png", ערוץ 1
+http://62.90.90.39/iba_channel-511MRepeat/_definst_/smil:channel-511M.high.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Channel 2" tvg-name="Channel 2" tvg-logo="Channel_2.png", ערוץ 2 - ראשון עד שלישי
+http://keshethdioslive-i.akamaihd.net/hls/live/221629/CH2LIVE_MED/index.m3u8
+
+#EXTINF:-1 tvg-id="Channel 2" tvg-name="Channel 2" tvg-logo="Channel_2.png", ערוץ 2 - רביעי עד שבת
+http://reshet207788-i.akamaihd.net/hls/live/207509/live/encoder_index.m3u8
+
+#EXTINF:-1 tvg-id="Channel 10" tvg-name="Channel 10" tvg-logo="Channel_10.png", ערוץ 10
+http://nana10live-lh.akamaihd.net/i/ch10news_0@93049/master.m3u8
+
+#EXTINF:-1 tvg-id="Channel 24" tvg-name="Channel 24" tvg-logo="Music24.jpg", ערוץ המוזיקה
+http://keshethlslive-lh.akamaihd.net/i/24live_1@195271/master.m3u8
+
+#EXTINF:-1 tvg-id="Channel 99" tvg-name="Channel 99" tvg-logo="Channel_99.png", ערוץ הכנסת
+mmsh://212.235.5.241/knessetlive
+
+#EXTINF:-1 tvg-id="Channel 2News" tvg-name="Channel 2News" tvg-logo="Channel_2News.png", חדשות ערוץ 2
+http://keshethlslive-lh.akamaihd.net/i/c2n_1@195269/master.m3u8
+
+#EXTINF:-1 tvg-id="מאיר TV" tvg-name="מאירTV" tvg-logo="Meir_TV.jpg",מאיר TV
+http://82.80.198.100:1935/live/live1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ערוץ הקבלה" tvg-name="ערוץ_הקבלה" tvg-logo="Kabala.jpg",ערוץ הקבלה
+http://edge1.il.kab.tv/rtplive/tv66-heb-high.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ישראל פלוס" tvg-name="ישראל_פלוס" tvg-logo="IsraelPlus.png",ישראל פלוס
+http://sw.gostreaming.tv:1935/live/smil:myStream.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="88FM" tvg-name="88FM" group-title="Radio From Israel - רדיו" tvg-logo="56901591e8837a51a94b2ac93e3bdfdb.jpg" radio="true",88FM
+http://62.90.90.39/iba_radio-88fmMRepeat/_definst_/smil:radio-88fmM.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="89.1FM רוסית" tvg-name="89.1FM_רוסית" group-title="Radio From Israel - רדיו" tvg-logo="8af768e558026a51d801e2149becf4de.png" radio="true",89.1FM רוסית
+mms://213.8.143.171/891FM
+
+#EXTINF:-1 tvg-id="90FM אמצע הדרך" tvg-name="90FM_אמצע_הדרך" group-title="Radio From Israel - רדיו" tvg-logo="5c341ac7b829d74ebf4bd9c7c93167ca.jpg" radio="true",90FM אמצע הדרך
+http://server1.live1.co.il:8018/livemp3
+
+#EXTINF:-1 tvg-id="91FM לב המדינה" tvg-name="91FM_לב_המדינה" group-title="Radio From Israel - רדיו" tvg-logo="a2744dc119dfd1208fc0ed1b836c8771.jpg" radio="true",91FM לב המדינה
+http://213.8.143.168/91fmAudio
+
+#EXTINF:-1 tvg-id="92.1FM רדיו קול ברמה" tvg-name="92.1FM_רדיו_קול_ברמה" group-title="Radio From Israel - רדיו" tvg-logo="fd4b894d1cdf22e43e6ef6452da23552.jpg" radio="true",92.1FM רדיו קול ברמה
+http://server1.live1.co.il:8004/livemp3
+
+#EXTINF:-1 tvg-id="95.8FM רדיו דרום" tvg-name="95.8FM_רדיו_דרום" group-title="Radio From Israel - רדיו" tvg-logo="ee4aad298607657faf189cf8059141e3.jpg" radio="true",95.8FM רדיו דרום
+http://live.radiodarom.co.il:1935/livestream/darom2/manifest.m3u8
+
+#EXTINF:-1 tvg-id="93FM רדיו קול חי" tvg-name="93FM_רדיו_קול_חי" group-title="Radio From Israel - רדיו" tvg-logo="169f507540436fa9353669d07ec0e3ec.png" radio="true",93FM רדיו קול חי
+http://switch2-streaming-212-83-eu.ilcast.com:8000
+
+#EXTINF:-1 tvg-id="96FM רדיו קול רגע" tvg-name="96FM_רדיו_קול_רגע" group-title="Radio From Israel - רדיו" tvg-logo="79a3f8331c63d5c9cb253ce87b26abd0.png" radio="true",96FM רדיו קול רגע
+http://radio.96fm.co.il/96fm
+
+#EXTINF:-1 tvg-id="ECO99FM" tvg-name="ECO99FM" group-title="Radio From Israel - רדיו" tvg-logo="a85e0aa5e028ec1417a09b458c1b7763.jpg" radio="true",ECO99FM
+http://99.livecdn.biz/99fm_aac?type=.flv
+
+#EXTINF:-1 tvg-id="100FM רדיוס" tvg-name="100FM_רדיוס" group-title="Radio From Israel - רדיו" tvg-logo="b8cb39ff41586f81ae89bf7001e780bb.png" radio="true",100FM רדיוס
+http://213.8.143.168/100fmAudio
+
+#EXTINF:-1 tvg-id="101FM רדיו ירושלים" tvg-name="101FM_רדיו_ירושלים" group-title="Radio From Israel - רדיו" tvg-logo="295d58bdbbb2d7053f81005b43dfc6e1.jpg" radio="true",101FM רדיו ירושלים
+mmsh://31.168.230.9/101fm?MSWMExt=.asf
+
+#EXTINF:-1 tvg-id="101.1FM רדיו א-שמס" tvg-name="101.1FM_רדיו_א-שמס" group-title="Radio From Israel - רדיו" tvg-logo="f44b6357e9f3797945714f6dcba4b5d1.jpg" radio="true",101.1FM רדיו א-שמס
+rtmp://live1.ashams.com/live playpath=live swfUrl=http://www.ashams.com/admin-aps/inc/player/player.swf pageUrl=http://www.ashams.com/live.html
+
+#EXTINF:-1 tvg-id="101.5FM רדיו דרום" tvg-name="101.5FM_רדיו_דרום" group-title="Radio From Israel - רדיו" tvg-logo="4112f25d95e551aa7a10af0205f28b3f.jpg",101.5FM רדיו דרום
+rtmp://live.radiodarom.co.il:1935/liveashkeloon playpath=esklaud1 swfUrl=http://fpdownload.adobe.com/strobe/FlashMediaPlayback.swf/[[DYNAMIC]]/1 pageUrl=http://www.radiodarom.co.il/?p=1781
+
+#EXTINF:-1 tvg-id="102FM קול הים האדום אילת" tvg-name="102FM_קול_הים_האדום_אילת" group-title="Radio From Israel - רדיו" tvg-logo="35e657c6ec6fc2abdaae8b2c176b02d6.jpg" radio="true",102FM קול הים האדום אילת
+rtmp://IL29.cast-tv.com:1935/23744_LIVE_Live_102FM/23744_LIVE_Live_102FM
+
+#EXTINF:-1 tvg-id="102FM רדיו תל אביב" tvg-name="102FM_רדיו_תל_אביב" group-title="Radio From Israel - רדיו" tvg-logo="a24150c61920d3b4d3098a19f2f7c59f.jpg" radio="true",102FM רדיו תל אביב
+rtmp://fms3.mediacast.co.il/liveradio playpath=102.stream swfUrl=http://radio.mediacast.co.il/players/fp325/flowplayer-3.2.5.swf?0.2779204686896638 pageUrl=http://face.mediacast.co.il/102fm/audio/
+
+#EXTINF:-1 tvg-id="103FM רדיו ללא הפסקה" tvg-name="103FM_רדיו_ללא_הפסקה" group-title="Radio From Israel - רדיו" tvg-logo="269913e565c10915595b6cefd0ff7305.jpg" radio="true",103FM רדיו ללא הפסקה
+http://103.livecdn.biz/103fm_aac?type=.flv
+
+#EXTINF:-1 tvg-id="105.3FM קול הגליל העליון" tvg-name="105.3FM_קול_הגליל_העליון" group-title="Radio From Israel - רדיו" tvg-logo="8533cc81e474e230dfee0a70a57559ec.jpg" radio="true",105.3FM קול הגליל העליון
+http://212.179.6.235:8000/galil
+
+#EXTINF:-1 tvg-id="106FM רדיו קול אחר אריאל" tvg-name="106FM_רדיו_קול_אחר_אריאל" group-title="Radio From Israel - רדיו" tvg-logo="6412914f8f5651d19cd2ea058f7648f1.jpg" radio="true",106FM רדיו קול אחר אריאל
+rtmp://server2.procast.co.il:1935/ariel/ playpath=video swfUrl=http://radio-tv-audio.procast.co.il/video/jwplayer.flash.swf pageUrl=http://radio-tv-audio.procast.co.il/video/projW.html
+
+#EXTINF:-1 tvg-id="106FM רדיו אשל הנשיא" tvg-name="106FM_רדיו_אשל_הנשיא" group-title="Radio From Israel - רדיו" tvg-logo="431a8e9aa248eccfe6e19953a18c96b3.jpg" radio="true",106FM רדיו אשל הנשיא
+http://81.218.116.232/xstream?1414141369343.mp3
+
+#EXTINF:-1 tvg-id="106FM קול הקמפוס" tvg-name="106FM_קול_הקמפוס" group-title="Radio From Israel - רדיו" tvg-logo="2819457bde6826fa0f5a5a3169f7bd3a.png" radio="true",106FM קול הקמפוס
+http://212.29.254.129:7075
+
+#EXTINF:-1 tvg-id="106FM קול יזרעאל" tvg-name="106FM_קול_יזרעאל" group-title="Radio From Israel - רדיו" tvg-logo="91cfdb3ad99521b6c5ce499eccb99817.jpg" radio="true",106FM קול יזרעאל
+http://wpc.09e3.go-live.co.il/hls-live/2009E3/emek/emek/radio.m3u8
+
+#EXTINF:-1 tvg-id="106FM קול נתניה" tvg-name="106FM_קול_נתניה" group-title="Radio From Israel - רדיו" tvg-logo="49c2c119a18964d8af90462adcf8dece.jpg" radio="true",106FM קול נתניה
+rtmp://106fmlive.streamtv.co.il/106fmlive/106fmlive
+
+#EXTINF:-1 tvg-id="106FM קול רמת השרון" tvg-name="106FM_קול_רמת_השרון" group-title="Radio From Israel - רדיו" tvg-logo="09755722617e14caecb74dab765cf97e.jpg" radio="true",106FM קול רמת השרון
+http://106fm.livecast.co.il:8123/;stream/1
+
+#EXTINF:-1 tvg-id="106FM רדיו קול הכנרת" tvg-name="106FM_רדיו_קול_הכנרת" group-title="Radio From Israel - רדיו" tvg-logo="75bb8571b0feccf6b52d013be856e1bf.jpg" radio="true",106FM רדיו קול הכנרת
+http://212.150.112.39:8000/106FM?type=.mp3
+
+#EXTINF:-1 tvg-id="106FM קול רמלה" tvg-name="106FM_קול_רמלה" group-title="Radio From Israel - רדיו" tvg-logo="edfb2d56feacf1189b512b54f5859cfd.png" radio="true",106FM קול רמלה
+http://84.94.229.99:5693/
+
+#EXTINF:-1 tvg-id="106FM קול גלים" tvg-name="106FM_קול_גלים" group-title="Radio From Israel - רדיו" tvg-logo="152d7982bbc4c46defac75ebd16c7476.png" radio="true",106FM קול גלים
+http://switch2-streaming-212-83-eu.ilcast.com:8055/;stream/1
+
+#EXTINF:-1 tvg-id="106FM קול גת" tvg-name="106FM_קול_גת" group-title="Radio From Israel - רדיו" tvg-logo="0771a5d0223e6706d9b58023ebfb51e4.jpg" radio="true",106FM קול גת
+http://gat.livecast.co.il:8010/
+
+#EXTINF:-1 tvg-id="106.2FM הרדיו הבינתחומי" tvg-name="106.2FM_הרדיו_הבינתחומי" group-title="Radio From Israel - רדיו" tvg-logo="cffa70db5d01482948e7fe7c74ddaf5e.gif" radio="true",106.2FM הרדיו הבינתחומי
+http://192.117.143.154:8000/idc123.mp3?1412672708524.mp3
+
+#EXTINF:-1 tvg-id="106.2FM קול ראשונים" tvg-name="106.2FM_קול_ראשונים" group-title="Radio From Israel - רדיו" tvg-logo="d884000a05e161eb7f09448b5532d82f.png" radio="true",106.2FM קול ראשונים
+http://switch2-streaming-212-83-eu.ilcast.com:8090/;stream/1
+
+#EXTINF:-1 tvg-id="106.2FM אורנים" tvg-name="106.2FM_אורנים" group-title="Radio From Israel - רדיו" tvg-logo="8255338c90a79040ed5c2bd959458532.jpg" radio="true",106.2FM אורנים
+http://oranim.ilcast.com:8017/
+
+#EXTINF:-1 tvg-id="106.4FM קול הנגב" tvg-name="106.4FM_קול_הנגב" group-title="Radio From Israel - רדיו" tvg-logo="ffbb391fdac30247abfad8975dba95ff.jpg" radio="true",106.4FM קול הנגב
+rtmp://54.173.76.39:1935/live/ playpath=myStream swfUrl=http://vod.sapir.ac.il/jwplayer/jwplayer.flash.swf pageUrl=http://vod.sapir.ac.il/kolhanegev/
+
+#EXTINF:-1 tvg-id="106.6FM גלי ישראל" tvg-name="106.6FM_גלי_ישראל" group-title="Radio From Israel - רדיו" tvg-logo="ed7ac39054f5cddfc8871edce2f092b5.jpg",106.6FM גלי ישראל
+http://live.radiodarom.co.il:1935/livegaleyisrael/galiaud1/manifest.m3u8
+
+#EXTINF:-1 tvg-id="107.5FM רדיו חיפה" tvg-name="107.5FM_רדיו_חיפה" group-title="Radio From Israel - רדיו" tvg-logo="ca351da243d13749141e17ef97c73d80.jpg" radio="true",107.5FM רדיו חיפה
+rtmp://cdn10.mediacast.co.il:1935/liveradio playpath=1075.stream swfUrl=http://fpdownload.adobe.com/strobe/FlashMediaPlayback_101.swf
+
+#EXTINF:-1 tvg-id="גלגל"צ" tvg-name="גלגל"צ" group-title="Radio From Israel - רדיו" tvg-logo="4a34af294bb13b5749c902c471ed10ea.gif" radio="true",גלגל"צ
+http://test.live.net.il/glgltz-a-zixief.m3u8
+
+#EXTINF:-1 tvg-id="גלי צה"ל" tvg-name="גלי_צה"ל" group-title="Radio From Israel - רדיו" tvg-logo="45c57478a2775bfa7524153baac314b3.jpg" radio="true",גלי צה"ל
+http://80.244.172.12/glz-a-zixief/glz-a-zixief.m3u8
+
+#EXTINF:-1 tvg-id="קול המוזיקה" tvg-name="קול_המוזיקה" group-title="Radio From Israel - רדיו" tvg-logo="7131edc70c5c77e40dc05613ca3c3aab.jpg" radio="true",קול המוזיקה
+http://s3efl.castup.net:1935/990310139-123.flv/_definst_/playlist.m3u8
+
+#EXTINF:-1 tvg-id="רשת א' מורשת" tvg-name="רשת_א'_מורשת" group-title="Radio From Israel - רדיו" tvg-logo="c2df9912eb81fe068ae4db7320227f29.png" radio="true",רשת א' מורשת
+http://svbfl.castup.net:1935/990310132-123.flv/_definst_/playlist.m3u8
+
+#EXTINF:-1 tvg-id="רשת ב'" tvg-name="רשת_ב'" group-title="Radio From Israel - רדיו" tvg-logo="766d66d60f3b3515f3e9eb6d60a794dd.jpg" radio="true",רשת ב'
+http://sbdfl.castup.net:1935/990310123-123.flv/_definst_/playlist.m3u8
+
+#EXTINF:-1 tvg-id="רשת ג'" tvg-name="רשת_ג'" group-title="Radio From Israel - רדיו" tvg-logo="ac4de5534f64f04be70f42b7030bfbdd.jpg" radio="true",רשת ג'
+http://sb2fl.castup.net:1935/990310125-123.flv/_definst_/playlist.m3u8
+
+#EXTINF:-1 tvg-id="רשת ד' קול ישראל בערבית" tvg-name="רשת_ד'_קול_ישראל_בערבית" group-title="Radio From Israel - רדיו" tvg-logo="3e1607b65c8b29d91faae0dcb3756104.jpg" radio="true",רשת ד' קול ישראל בערבית
+http://s3efl.castup.net:1935/990310135-123.flv/_definst_/playlist.m3u8
+
+#EXTINF:-1 tvg-id="רק"ע" tvg-name="רק"ע" group-title="Radio From Israel - רדיו" tvg-logo="1ea57a2b3025213e372d75baa7456439.png" radio="true",רק"ע
+mms://s3ewm.castup.net/990310005-52.wmv
+
+#EXTINF:-1 tvg-id="99.5FM רדיו חם אש" tvg-name="99.5FM_רדיו_חם_אש" group-title="Radio From Israel - רדיו" tvg-logo="8fc18ebc63d4f6af695a9e5d1b714fe9.png" radio="true",99.5FM רדיו חם אש
+http://46.4.41.68:8000/995fm?type=.flv
+
+#EXTINF:-1 tvg-id="109FM" tvg-name="109FM" group-title="Radio From Israel - רדיו" tvg-logo="06757fd6a6cd0df0fd5d23d17d0721c4.png" radio="true",109FM
+http://cuead.cdnwiz.com/cuead-109fmmp3-64
+
+#EXTINF:-1 tvg-id="רדיו מהות החיים" tvg-name="רדיו_מהות_החיים" group-title="Radio From Israel - רדיו" tvg-logo="7c2a50bac21aeda32a9fb04d27b6582d.jpg" radio="true",רדיו מהות החיים
+rtmp://cast04.cdnwiz.com/eolsite/ playpath=eolsite.stream swfUrl=http://live.eol.co.il/jwplayer/jwplayer.flash.swf pageUrl=http://live.eol.co.il/
+
+#EXTINF:-1 tvg-id="רדיו קול הצפון" tvg-name="רדיו_קול_הצפון" group-title="Radio From Israel - רדיו" tvg-logo="aad28fee8ae8f7581e5ac7febbb07975.png" radio="true",רדיו קול הצפון
+http://mms1.no-ip.net:8030/
+
+#EXTINF:-1 tvg-id="קול עכו" tvg-name="קול_עכו" group-title="Radio From Israel - רדיו" tvg-logo="e39736da360bdfeac7a5579823de0082.png" radio="true",קול עכו
+http://212.150.101.181:8012/
+
+#EXTINF:-1 tvg-id="אזורית" tvg-name="אזורית" group-title="Radio From Israel - רדיו" tvg-logo="f46ce3637b801dd989e99028b279243d.jpg" radio="true",אזורית
+http://wms01.video-streaming.co.il:8000
+
+#EXTINF:-1 tvg-id="קצה" tvg-name="קצה" group-title="Radio From Israel - רדיו" tvg-logo="548edbf723a08e0180ae6d7f8de5a4a3.png" radio="true",קצה
+http://server2.kzradio.net/stream1
+
+#EXTINF:-1 tvg-id="רדיו עפולה" tvg-name="רדיו_עפולה" group-title="Radio From Israel - רדיו" tvg-logo="56b4630907e56c072f92b58ad3dcd85c.jpg" radio="true",רדיו עפולה
+http://radioafula.cdnwiz.com/stream
+
+#EXTINF:-1 tvg-id="קול המזרח" tvg-name="קול_המזרח" group-title="Radio From Israel - רדיו" tvg-logo="198a914e20001c23547bffcb1a56e18b.png" radio="true",קול המזרח
+http://radio.menta-fm.co.il:8888
+
+#EXTINF:-1 tvg-id="Radio 1FM" tvg-name="Radio_1FM" group-title="Radio From Israel - רדיו" tvg-logo="0924b0aa649039da74b43ef4a2c1c78e.jpg" radio="true",Radio 1FM
+http://listen.clickfm.co.il/1FM
+
+#EXTINF:-1 tvg-id="Click2Dance" tvg-name="Click2Dance" group-title="Radio From Israel - רדיו" tvg-logo="641a15025d12279c12e63a94a458d17e.png" radio="true",Click2Dance
+http://listen.clickfm.co.il/click2dance
+
+#EXTINF:-1 tvg-id="ClickFM" tvg-name="ClickFM" group-title="Radio From Israel - רדיו" tvg-logo="5abe5826706526026dafd7e0369c0ce9.jpg" radio="true",ClickFM
+http://listen.clickfm.co.il/clickfm
+
+#EXTINF:-1 tvg-id="ClickCafe" tvg-name="ClickCafe" group-title="Radio From Israel - רדיו" tvg-logo="6ac1f28b58323c4c181114b7e752b875.png" radio="true",ClickCafe
+http://listen.clickfm.co.il/clickcafe
+
+#EXTINF:-1 tvg-id="ClickHipHop" tvg-name="ClickHipHop" group-title="Radio From Israel - רדיו" tvg-logo="3b9cd4ad26149b0fa51e32fc7a07dd3d.png" radio="true",ClickHipHop
+http://listen.clickfm.co.il/hip.mp3
+
+#EXTINF:-1 tvg-id="Click2Love" tvg-name="Click2Love" group-title="Radio From Israel - רדיו" tvg-logo="3a2411f4460c1320477af8b89c54652d.png" radio="true",Click2Love
+http://listen.clickfm.co.il/click2love
+
+#EXTINF:-1 tvg-id="ClickIsrael" tvg-name="ClickIsrael" group-title="Radio From Israel - רדיו" tvg-logo="ebcf2652d51bee1cabe0addd9b3e269f.png" radio="true",ClickIsrael
+http://listen.clickfm.co.il/clickil
+
+#EXTINF:-1 tvg-id="רדיו ביט" tvg-name="רדיו_ביט" group-title="Radio From Israel - רדיו" tvg-logo="ce0059229a7593e2271c083f4b53b263.png" radio="true",רדיו ביט
+http://beat.livecast.co.il/;
+
+#EXTINF:-1 tvg-id="נושמים מזרחית" tvg-name="נושמים_מזרחית" group-title="Radio From Israel - רדיו" tvg-logo="59ef45d0f539f25a2eb9193e2f944578.png" radio="true",נושמים מזרחית
+http://www.rs.mizrahit.co.il:7777/
+
+#EXTINF:-1 tvg-id="רדיו סול" tvg-name="רדיו_סול" group-title="Radio From Israel - רדיו" tvg-logo="3fe8f9e60f50f57998bbf4f0fe24527f.jpg" radio="true",רדיו סול
+rtmp://wowza03.video-streaming.co.il:80/live playpath=2399LIVE5682 swfUrl=http://www.video-streaming.co.il/misc/flowplayer/flowplayer.commercial-3.2.18.swf pageUrl=http://www.video-streaming.co.il/video/iframe/ash/5682/e773ad?autoplay=true
+
+#EXTINF:-1 tvg-id="רדיו יאסו" tvg-name="רדיו_יאסו" group-title="Radio From Israel - רדיו" tvg-logo="57f5c4e893cfd8560d754c96af519464.png" radio="true",רדיו יאסו
+http://radio-yasoo.ath.cx:7500/
